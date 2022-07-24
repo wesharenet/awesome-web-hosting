@@ -3,7 +3,7 @@
 
 ## Contents
 
-- [Blog & News](#blog--news)
+- [Blog Reviews](#blog-reviews)
 - [Web Hosting Providers](#shared-web-hosting-providers)
 - [Managed WordPress Hosting](#managed-wordpress-hosting)
 - [CMS Software](#cms-software)
